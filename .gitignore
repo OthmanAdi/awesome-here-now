@@ -1,0 +1,15 @@
+# here.now local state
+.herenow/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (if automation added later)
+node_modules/

@@ -1,0 +1,100 @@
+name: "Submit a Site"
+description: "Add your here.now site to the Awesome list"
+title: "Add: "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting your here.now site! Fill out the form below and we'll add it to the list.
+
+  - type: input
+    id: url
+    attributes:
+      label: Site URL
+      description: "The full here.now URL"
+      placeholder: "https://your-slug.here.now/"
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Site Title
+      description: "A short name for your site"
+      placeholder: "My Portfolio"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: "One sentence about what the site is"
+      placeholder: "Personal portfolio showcasing my AI engineering projects"
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Author
+      description: "Your name or GitHub handle"
+      placeholder: "@yourhandle"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: "Which category best fits your site?"
+      options:
+        - Portfolios & Personal Sites
+        - Dashboards & Data Viz
+        - Games & Interactive
+        - Documentation & Tutorials
+        - AI Demos & Showcases
+        - Landing Pages
+        - Art & Creative
+        - Tools & Utilities
+        - Misc
+    validations:
+      required: true
+
+  - type: dropdown
+    id: agent
+    attributes:
+      label: AI Agent Used
+      description: "Which agent did you use to build/publish?"
+      options:
+        - Claude Code
+        - Cursor
+        - Codex
+        - Gemini CLI
+        - amp
+        - kimi-cli
+        - opencode
+        - Other (specify in description)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: auth
+    attributes:
+      label: Publish Type
+      description: "Is this an authenticated (permanent) or anonymous (24h) publish?"
+      options:
+        - Authenticated (permanent)
+        - Anonymous (expires in 24h)
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: "Drag and drop a screenshot here. Required for anonymous publishes, recommended for all."
+      placeholder: "Drag image here or paste a URL"
+    validations:
+      required: false
