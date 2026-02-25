@@ -11,5 +11,7 @@ Thumbs.db
 *.swp
 *.swo
 
-# Node (if automation added later)
+# Node / Bun
 node_modules/
+bun.lock
+cli/dist/

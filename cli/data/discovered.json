@@ -1,0 +1,17 @@
+{
+  "sites": [
+    {
+      "slug": "inner-warden-w4ck",
+      "url": "https://inner-warden-w4ck.here.now/",
+      "source": "github",
+      "foundAt": "2026-02-25T23:42:54.511Z",
+      "foundIn": "github:OthmanAdi/awesome-here-now/README.md",
+      "status": "live",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "lastChecked": "2026-02-25T23:42:57.505Z"
+    }
+  ],
+  "totalRuns": 1,
+  "lastRun": "2026-02-25T23:42:57.505Z"
+}
