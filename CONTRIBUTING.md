@@ -41,7 +41,7 @@ Thanks for submitting! This list grows because people like you share what they b
 - **One sentence description** — keep it tight
 - **Category must exist** — if none fit, suggest a new one in your PR
 - **No duplicates** — check the list first
-- **No NSFW, illegal, or malicious content**
+- **No illegal or malicious content**
 
 ## What Gets Accepted
 
