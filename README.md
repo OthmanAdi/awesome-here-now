@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<!-- BANNER IMAGE: Replace with generated image from Manus -->
-<br>
-<img src="media/banner.png" alt="Awesome here.now" width="600">
+<img src="media/banner_v5.png" alt="Awesome here.now" width="800">
 <br><br>
 
 # Awesome here.now [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
