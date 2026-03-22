@@ -62,7 +62,9 @@
 
 ## Landing Pages
 
-*Be the first — [submit yours!](https://github.com/OthmanAdi/awesome-here-now/issues/new?template=submit-site.yml)*
+| Site | Author | Description | Agent |
+|------|--------|-------------|-------|
+| [OpenUI Forge](https://spruce-prism-8yya.here.now/) | [@OthmanAdi](https://github.com/OthmanAdi) | Landing page for the first OpenUI skill for coding agents | Claude Code |
 
 ## Art & Creative
 
@@ -107,7 +109,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 | Metric | Count |
 |--------|-------|
-| Sites listed | 1 |
+| Sites listed | 2 |
 | Contributors | 1 |
 | Categories | 9 |
 
