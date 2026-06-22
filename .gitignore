@@ -15,3 +15,13 @@ Thumbs.db
 node_modules/
 bun.lock
 cli/dist/
+
+# Büsum import scratch (tooling references a private external repo path)
+cli/data/all-publishes.json
+cli/data/busum-catalog.json
+cli/data/busum-live.tsv
+cli/data/busum-section.md
+cli/data/site-meta.jsonl
+cli/data/*.py
+cli/data/fetch-titles.sh
+cli/data/probe-busum.sh
