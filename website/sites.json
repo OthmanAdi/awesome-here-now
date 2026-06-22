@@ -11,6 +11,17 @@
     "auth": "authenticated"
   },
   {
+    "slug": "gentle-moment-985y",
+    "title": "Büsum Living Twin",
+    "description": "Real-time 3D digital twin of Büsum driven by live weather, time and tides: fly the globe, walk the town, open all 344 here.now demos",
+    "author": "Ahmad Adi",
+    "github": "OthmanAdi",
+    "category": "games-interactive",
+    "agent": "Claude Code",
+    "submitted": "2026-06-22",
+    "auth": "authenticated"
+  },
+  {
     "slug": "liminal-quasar-wayq",
     "title": "Birga Wiechmann",
     "description": "Kosmetik & Fußpflege mit Herz - Birga Wiechmann in Büsum. Gesichtsbehandlungen, professionelle Fußpflege und Wellness a…",

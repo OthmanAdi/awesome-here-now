@@ -9,7 +9,7 @@
 
 **Real sites that AI agents built and shipped, live on [here.now](https://here.now).**
 
-![live sites](https://img.shields.io/badge/live%20sites-345-0ea5e9) ![built in 48h](https://img.shields.io/badge/344%20built%20in-48h-ff5252) ![built with](https://img.shields.io/badge/built%20with-Claude%20Code-8b5cf6) ![license](https://img.shields.io/badge/license-CC0%201.0-lightgrey)
+![live sites](https://img.shields.io/badge/live%20sites-346-0ea5e9) ![built in 48h](https://img.shields.io/badge/344%20built%20in-48h-ff5252) ![built with](https://img.shields.io/badge/built%20with-Claude%20Code-8b5cf6) ![license](https://img.shields.io/badge/license-CC0%201.0-lightgrey)
 
 [Highlights](#highlights) · [Büsum Demos](#büsum-local-business-demos) · [Submit](#submit-your-site) · [What is here.now?](#what-is-herenow)
 
@@ -485,14 +485,20 @@ Git, no deploy pipeline.
 
 Built something with here.now? It goes here. [Send it in.](#submit-your-site)
 
+### Games & Interactive
+
+| Site | Author | Description | Agent |
+|------|--------|-------------|-------|
+| [Büsum Living Twin](https://gentle-moment-985y.here.now/) | [@OthmanAdi](https://github.com/OthmanAdi) | Real-time 3D digital twin of Büsum driven by live weather, time and tides: fly the globe, walk the town, open all 344 here.now demos | Claude Code |
+
 ### Landing Pages
 
 | Site | Author | Description | Agent |
 |------|--------|-------------|-------|
 | [OpenUI Forge](https://spruce-prism-8yya.here.now/) | [@OthmanAdi](https://github.com/OthmanAdi) | Landing page for the first OpenUI skill for coding agents | Claude Code |
 
-Open categories waiting for their first entry: Portfolios, Dashboards & Data Viz, Games &
-Interactive, Documentation, AI Demos, Art & Creative, Tools & Utilities, Misc.
+Open categories waiting for their first entry: Portfolios, Dashboards & Data Viz,
+Documentation, AI Demos, Art & Creative, Tools & Utilities, Misc.
 
 ## Submit Your Site
 
