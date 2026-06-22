@@ -1,14 +1,14 @@
 [
   {
-    "slug": "inner-warden-w4ck",
-    "title": "Ahmad Adi",
-    "description": "AI engineer & instructor card — 97K LOC, 8K+ teaching hours",
+    "slug": "spruce-prism-8yya",
+    "title": "OpenUI Forge",
+    "description": "Landing page for the first OpenUI skill for coding agents",
     "author": "Ahmad Adi",
     "github": "OthmanAdi",
-    "category": "portfolios",
+    "category": "landing-pages",
     "agent": "Claude Code",
-    "submitted": "2026-02-26",
-    "auth": "anonymous"
+    "submitted": "2026-06-21",
+    "auth": "authenticated"
   },
   {
     "slug": "liminal-quasar-wayq",

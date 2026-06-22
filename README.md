@@ -2,86 +2,62 @@
 
 <div align="center">
 
-<img src="media/banner_v5.png" alt="Awesome here.now" width="800">
+<img src="media/banner_v5.png" alt="Awesome here.now" width="820">
 <br><br>
 
 # Awesome here.now [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-**A curated showcase of sites published with [here.now](https://here.now) — the instant web host for AI agents.**
+**Real sites that AI agents built and shipped, live on [here.now](https://here.now).**
 
-[Submit yours](#submit-your-site) · [Website](https://awesome-here-now.here.now) · [What is here.now?](#what-is-herenow)
+![live sites](https://img.shields.io/badge/live%20sites-345-0ea5e9) ![built in 48h](https://img.shields.io/badge/344%20built%20in-48h-ff5252) ![built with](https://img.shields.io/badge/built%20with-Claude%20Code-8b5cf6) ![license](https://img.shields.io/badge/license-CC0%201.0-lightgrey)
 
-<br>
-
-**Featured:** [344 local-business demo sites for Büsum](#büsum-local-business-demos), built with Claude Code and published to here.now.
+[Highlights](#highlights) · [Büsum Demos](#büsum-local-business-demos) · [Submit](#submit-your-site) · [What is here.now?](#what-is-herenow)
 
 </div>
 
 ---
 
-## What is here.now?
-
-[here.now](https://here.now) is free, instant static web hosting for AI agents. Tell your agent "publish this to here.now" and get a live URL in 5 seconds. No signup, no Git, no deploy pipeline.
-
-- **Zero friction** — No account needed for anonymous publishes
-- **Agent-native** — Works with Claude, Cursor, Codex, Gemini CLI, and any HTTP-capable agent
-- **Edge-delivered** — Built on Cloudflare R2 with 330+ global edge locations
-- **Free** — Anonymous (24h) or permanent with a free account
+> ### The Büsum Experiment
+>
+> One agent. 48 hours. **344 production-grade local-business websites** for a single
+> North Sea town, every one live on here.now with its own WebGL hero, hand-built SVG
+> icon set and working booking forms. This page is the gallery.
 
 ## Contents
 
-- [Portfolios & Personal Sites](#portfolios--personal-sites)
-- [Dashboards & Data Viz](#dashboards--data-viz)
-- [Games & Interactive](#games--interactive)
-- [Documentation & Tutorials](#documentation--tutorials)
-- [AI Demos & Showcases](#ai-demos--showcases)
-- [Landing Pages](#landing-pages)
-- [Art & Creative](#art--creative)
-- [Tools & Utilities](#tools--utilities)
-- [Misc](#misc)
+- [Highlights](#highlights)
+- [What is here.now?](#what-is-herenow)
 - [Büsum Local-Business Demos](#büsum-local-business-demos)
+- [Community Submissions](#community-submissions)
+- [Submit Your Site](#submit-your-site)
 
----
+## Highlights
 
-## Portfolios & Personal Sites
+Ten of the strongest builds. The full set is in [Büsum Demos](#büsum-local-business-demos).
 
-| Site | Author | Description | Agent |
-|------|--------|-------------|-------|
-| [Ahmad Adi](https://inner-warden-w4ck.here.now/) | [@OthmanAdi](https://github.com/OthmanAdi) | AI engineer & instructor card — 97K LOC, 8K+ teaching hours | Claude Code |
+| Site | What makes it pop |
+|------|-------------------|
+| [Küstenperle Strandhotel & Spa](https://crisp-coral-y699.here.now/) | Flagship spa hotel, WebGL ocean hero |
+| [Phänomania Erlebniszentrum Büsum](https://zephyr-virtue-8p6c.here.now/) | Interactive science-center showcase |
+| [Zur Perle](https://cedar-quartz-45h3.here.now/) | Restaurant with a live reservation form |
+| [Hotel Schelf](https://radiant-nirvana-k34m.here.now/) | Coastal hotel, booking inquiry flow |
+| [Nordseering Büsum – Outdoor-Kartbahn](https://russet-nebula-y993.here.now/) | Outdoor kart track, online booking |
+| [Zahnarztpraxis Dr. Jan Martin Steinberg](https://yearly-orbit-4t9a.here.now/) | Dental practice, appointment booking |
+| [Hotel Hafen Büsum](https://unbound-geyser-j9kk.here.now/) | Harbor hotel, booking inquiry |
+| [Aquarium Büsumer Meereswelten](https://lunar-echo-e9ez.here.now/) | Sealife attraction, ticket lead capture |
+| [Cruiser King Büsum – Fahrradverleih (Björn Walluks)](https://tawny-hearth-9waq.here.now/) | E-bike rental with a booking flow |
+| [Störtebeker Steakhaus](https://spicy-ledger-8fy8.here.now/) | Steakhouse with table reservation |
 
-## Dashboards & Data Viz
+## What is here.now?
 
-*Be the first — [submit yours!](https://github.com/OthmanAdi/awesome-here-now/issues/new?template=submit-site.yml)*
+[here.now](https://here.now) is free, instant static web hosting for AI agents. Tell your
+agent "publish this to here.now" and get a live URL in about five seconds. No signup, no
+Git, no deploy pipeline.
 
-## Games & Interactive
-
-*Be the first — [submit yours!](https://github.com/OthmanAdi/awesome-here-now/issues/new?template=submit-site.yml)*
-
-## Documentation & Tutorials
-
-*Be the first — [submit yours!](https://github.com/OthmanAdi/awesome-here-now/issues/new?template=submit-site.yml)*
-
-## AI Demos & Showcases
-
-*Be the first — [submit yours!](https://github.com/OthmanAdi/awesome-here-now/issues/new?template=submit-site.yml)*
-
-## Landing Pages
-
-| Site | Author | Description | Agent |
-|------|--------|-------------|-------|
-| [OpenUI Forge](https://spruce-prism-8yya.here.now/) | [@OthmanAdi](https://github.com/OthmanAdi) | Landing page for the first OpenUI skill for coding agents | Claude Code |
-
-## Art & Creative
-
-*Be the first — [submit yours!](https://github.com/OthmanAdi/awesome-here-now/issues/new?template=submit-site.yml)*
-
-## Tools & Utilities
-
-*Be the first — [submit yours!](https://github.com/OthmanAdi/awesome-here-now/issues/new?template=submit-site.yml)*
-
-## Misc
-
-*Be the first — [submit yours!](https://github.com/OthmanAdi/awesome-here-now/issues/new?template=submit-site.yml)*
+- **Zero friction**: no account needed for anonymous publishes.
+- **Agent-native**: works with Claude, Cursor, Codex, Gemini CLI and any HTTP-capable agent.
+- **Edge-delivered**: built on Cloudflare R2 with 330+ global edge locations.
+- **Free**: anonymous (24h) or permanent with a free account.
 
 ## Büsum Local-Business Demos
 
@@ -505,60 +481,44 @@
 
 </details>
 
----
+## Community Submissions
+
+Built something with here.now? It goes here. [Send it in.](#submit-your-site)
+
+### Landing Pages
+
+| Site | Author | Description | Agent |
+|------|--------|-------------|-------|
+| [OpenUI Forge](https://spruce-prism-8yya.here.now/) | [@OthmanAdi](https://github.com/OthmanAdi) | Landing page for the first OpenUI skill for coding agents | Claude Code |
+
+Open categories waiting for their first entry: Portfolios, Dashboards & Data Viz, Games &
+Interactive, Documentation, AI Demos, Art & Creative, Tools & Utilities, Misc.
 
 ## Submit Your Site
 
 Built something with here.now? We want to see it.
 
-**Option 1: GitHub Issue (easiest)**
+**Option 1: GitHub Issue (easiest).** [Open a submission issue](https://github.com/OthmanAdi/awesome-here-now/issues/new?template=submit-site.yml), fill out the form, we add it.
 
-[Click here to submit](https://github.com/OthmanAdi/awesome-here-now/issues/new?template=submit-site.yml) — fill out the form, we'll add it.
+**Option 2: Pull Request.** Fork, add your row to the right category in `README.md`, add your
+entry to `website/sites.json`, open the PR. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-**Option 2: Pull Request**
-
-1. Fork this repo
-2. Add your site to the appropriate category in `README.md`
-3. Add your site's data to `website/sites.json`
-4. Submit a PR
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-### Submission Requirements
-
-- Site must be live on `*.here.now`
-- One sentence description
-- Your GitHub handle or name
-- Which AI agent you used to build it (Claude, Cursor, Codex, etc.)
-- Authenticated publishes preferred (won't expire), but anonymous accepted if screenshot is included
-
-## Stats
-
-| Metric | Count |
-|--------|-------|
-| Sites listed | 346 |
-| Contributors | 1 |
-| Categories | 9 |
-
-*Updated manually. Want to automate this? [Open an issue.](https://github.com/OthmanAdi/awesome-here-now/issues)*
-
----
+Requirements: live on `*.here.now`, one-sentence description, your GitHub handle or name,
+and which agent you used. Authenticated (permanent) publishes preferred.
 
 ## Related
 
-- [here.now](https://here.now) — The platform
-- [here.now docs](https://here.now/docs) — Official documentation
-- [here.now skill](https://github.com/heredotnow/skill) — The agent skill (publish.sh)
-- [skills.sh listing](https://skills.sh/heredotnow/skill/here-now) — Install metrics
+- [here.now](https://here.now) — the platform
+- [here.now docs](https://here.now/docs) — official documentation
+- [here.now skill](https://github.com/heredotnow/skill) — the agent skill (publish.sh)
+- [skills.sh listing](https://skills.sh/heredotnow/skill/here-now) — install metrics
 
 ---
 
 <div align="center">
 
-**This directory is published on here.now itself** — [awesome-here-now.here.now](https://awesome-here-now.here.now)
+Maintained by [Ahmad Adi](https://github.com/OthmanAdi) · built with Claude Code
 
-Maintained by [Ahmad Adi](https://github.com/OthmanAdi)
-
-<sub>Licensed under <a href="LICENSE">CC0 1.0</a> — public domain, no rights reserved.</sub>
+<sub>Licensed under <a href="LICENSE">CC0 1.0</a>: public domain, no rights reserved.</sub>
 
 </div>
